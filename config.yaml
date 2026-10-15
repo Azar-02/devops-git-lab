@@ -4,4 +4,4 @@ filters:
   - name: priority
     values: [high, medium, low]
   - name: environment
-    valuse: [development]
+    values: [development, testing]
